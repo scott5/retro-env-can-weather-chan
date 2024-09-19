@@ -1,8 +1,10 @@
+# Minimal changes from upstream
+
+This particular repository is a slightly modified version as I experiment with it. First, I want a fully Alpine version and the container used is debian. I also want to change the size to be 1080p, as I want to broadcast it as 1080p in my home through a HDMI->RF unit. I could try the composite version later, but this is the lower barrier to entry right now. I'd also like to remove some of the things it does, but my knowledge of node is pretty minimal and this is being used as a demo rather quickly.
+
 # Retro Envrionment Canada Weather Channel
 
 This project is a simulator of the Environemnt Canada Weather Channel that Winnipeg broadcast via cable from the 80s to the early 2000s. This project aims to recreate the mid-90s version of the channel.
-
-This particular repository is a slightly modified version as I experiment with it. First, I want a fully Alpine version and the container used is debian. I also want to change the size to be 1080p, as I want to broadcast it as 1080p in my home through a HDMI->RF unit. I could try the composite version later, but this is the lower barrier to entry right now. I'd also like to remove some of the things it doees, but my knowledge of node is pretty minimal and this is being used as a demo rather quickly.
 
 ## Features
 
